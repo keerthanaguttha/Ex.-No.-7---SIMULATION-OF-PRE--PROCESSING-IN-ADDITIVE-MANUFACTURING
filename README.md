@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 27-04-24
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/keerthanaguttha/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742927/d4743490-789e-4f90-ac4c-430acc85d2cd)
+
+### Name: Guttha Keerthana
+### Register Number: 212223240045
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
